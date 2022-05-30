@@ -85,4 +85,4 @@ write_to_file(fName,lstItemsPrice)
 print("Success")
 ```
 
-(image1.png "Code result")
+![Results of Listing 13](image1.png "Results of Listing 13")#### 
