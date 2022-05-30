@@ -84,3 +84,5 @@ lstItemsPrice=[item,price]
 write_to_file(fName,lstItemsPrice)
 print("Success")
 ```
+
+(https://github.com/mailsamir/ITFnd100-Mod07/blob/main/docs/image1.png "Code result")
